@@ -30,6 +30,7 @@ import img4_fg from './img/img4_fg.png';
 import img4_mask from './img/img4_mask.png';
 import img4_pic from './img/img4.jpg';
 
+
 const AppContainer = styled.div `
   max-width: 1440px;
   margin: 0px auto;
